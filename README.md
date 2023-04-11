@@ -11,8 +11,8 @@ Ao final da disciplina, o aluno deverá ser capaz de modelar sistemas dinâmicos
 
 [Introdução aos sistemas de controle;](Intro.ipynb)  
 [Modelagem matemática de sistemas dinâmicos;](Modelagem_Matematica.ipynb)  
-Linearização de modelos;  
-Função de transferência e de resposta impulsiva;  
+[Linearização de modelos](liearizacao.ipynb);  
+[Função de transferência e de resposta impulsiva](transf.ipynb);  
 Modelagem no espaço de estados;  
 Análise de resposta transitória e de regime estacionário; 
 Análise de resposta em frequência;  
