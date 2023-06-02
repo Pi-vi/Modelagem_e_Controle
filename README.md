@@ -14,14 +14,17 @@ Ao final da disciplina, o aluno deverá ser capaz de modelar sistemas dinâmicos
 [Linearização de modelos](linearizacao.ipynb);  
 [Função de transferência e de resposta impulsiva](transf.ipynb);  
 [Modelagem no espaço de estados](EE.ipynb);  
-Análise de resposta transitória e de regime estacionário; 
-Análise de resposta em frequência;  
-Diagrama de Bode;  
-Método do lugar das raízes para análise e projeto de sistemas de controle;  
-Controladores PID;  
-Regras de sintonia para controladores PID;  
-Ganho crítico;  
-Análise de sistemas dinâmicos com o auxílio de alguma linguagem de programação.  
+[Análise de resposta transitória e de regime estacionário](Resposta.ipynb);   
+[Análise de resposta em frequência e Diagrama de Bode](Freq.ipynb);  
+[Introdução aos Sistemas de Controle](Controle.ipynb);  
+[Fundamentos de Projeto de Controladores](Proj_Cont.ipynb);
+
+Pontos contidos em tópicos anteriores:
+* Método do lugar das raízes para análise e projeto de sistemas de controle;  
+* Controladores PID;  
+* Regras de sintonia para controladores PID;  
+* Ganho crítico;  
+* Análise de sistemas dinâmicos com o auxílio de alguma linguagem de programação.  
 
 ## Avaliação
 
